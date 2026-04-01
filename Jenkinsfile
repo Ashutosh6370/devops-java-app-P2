@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "ashutosh6370/devops-java-app-P2"
+        IMAGE_NAME = "ashutosh6370/devops-java-app-p2"
         IMAGE_TAG = "v1"
-        CONTAINER_NAME = "devops-java-app-P2"
+        CONTAINER_NAME = "devops-java-app-p2"
     }
 
     tools {
