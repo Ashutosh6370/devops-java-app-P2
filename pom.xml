@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.demo</groupId>
-    <artifactId>devops-java-app-P2</artifactId>
+    <artifactId>devops-java-app-p2</artifactId>
     <version>1.0</version>
 
     <build>
