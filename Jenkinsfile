@@ -15,9 +15,9 @@ pipeline {
     stages {
 
         stage('Checkout') {
-            steps {
-                git 'https://github.com/Ashutosh6370/devops-java-app-P2.git'
-            }
+    steps {
+        git branch: 'main', url: 'https://github.com/Ashutosh6370/devops-java-app-P2.git'
+          }
         }
 
         stage('Build') {
